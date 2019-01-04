@@ -29,23 +29,23 @@ int main() {
 	cout << "Will the sitting be on a weekend? (0 = no, 1 = yes); ";
 	cin >> weekend;
 	
-	if (howMany = 1) {
+	if (howMany == 1) {
 		cost = 100;
 		subject = " subject, ";
 	}
-	else if (howMany = 2) {
+	else if (howMany == 2) {
 		cost = 130;
 	}
-	else if (howMany = 3) {
+	else if (howMany == 3) {
 		cost = 150;
 	}
-	else if (howMany = 4) {
+	else if (howMany == 4) {
 		cost = 165;
 	}
-	else if (howMany = 5) {
+	else if (howMany == 5) {
 		cost = 175;
 	}
-	else if (howMany = 6) {
+	else if (howMany == 6) {
 		cost = 180;
 	}
 	else{
