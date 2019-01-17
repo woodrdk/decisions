@@ -11,10 +11,9 @@
 using namespace std;
 
 int main() {
-	// why only reading 1?
 	int howMany = 0;
 	int weekend = 0;
-	string when = " ";
+	string when = "";
 	double cost = 0;
 	string subject = " subjects, ";
 
